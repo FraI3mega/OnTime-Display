@@ -33,7 +33,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/home/franek/Programowanie/Python/OnTime_Epaper/venv"
+set -gx VIRTUAL_ENV "/home/franek/Programowanie/Python/OnTime-Display/venv"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH

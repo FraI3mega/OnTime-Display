@@ -1,4 +1,4 @@
-#!/home/franek/Programowanie/Python/OnTime_Epaper/venv/bin/python
+#!/home/franek/Programowanie/Python/OnTime-Display/venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
